@@ -67,12 +67,12 @@ uvicorn app.main:app --reload
 ## Uso de la API
 
 ### Buscar Películas
-- Localiza el **endpoint:** `GET /api/v1/search/`
-
-- Haz click en el botón "Try it out"
-- Ingresa el término de búsqueda en el campo `keyword` (string)
-
-- Presiona "Execute" para realizar la búsqueda
+1. Accede a la documentación Swagger en http://localhost:8000/docs
+2. Localiza el **endpoint:** `GET /api/v1/search/`
+3. Haz click en el botón "Try it out"
+4. Ingresa el término de búsqueda en el campo `keyword` (string)
+5. Presiona "Execute" para realizar la búsqueda
+6. Los resultados se mostrarán en la sección "Response body"
 
 **Ejemplo de solicitud:**
 ```bash
