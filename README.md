@@ -62,8 +62,7 @@ uvicorn app.main:app --reload
 
 2. Acceder a:
 - API Documentation (Swagger): http://localhost:8000/docs
-- API Documentation (ReDoc): http://localhost:8000/redoc
-- API Base URL: http://localhost:8000/api/v1
+
 
 ## Uso de la API
 
