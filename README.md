@@ -146,14 +146,6 @@ Para ejecutar las pruebas:
 pytest
 ```
 
-## Contribuir
-
-1. Fork el repositorio
-2. Crear una rama para tu función (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abrir un Pull Request
-
 
 ## Contacto
 
