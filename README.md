@@ -154,9 +154,6 @@ pytest
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abrir un Pull Request
 
-## Licencia
-
-Distribuido bajo la Licencia MIT. Ver `LICENSE` para más información.
 
 ## Contacto
 
