@@ -67,11 +67,17 @@ uvicorn app.main:app --reload
 ## Uso de la API
 
 ### Buscar Películas
+- Localiza el endpoint `GET /api/v1/search/`
 
 **Endpoint:** `GET /api/v1/search/`
 
+- Haz click en el botón "Try it out"
+4. Ingresa el término de búsqueda en el campo `keyword`
+
 **Parámetros:**
 - `keyword` (string): Término de búsqueda
+
+- Presiona "Execute" para realizar la búsqueda
 
 **Ejemplo de solicitud:**
 ```bash
